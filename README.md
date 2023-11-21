@@ -9,5 +9,7 @@
 
     Error: couldn't install venv.
         python3 -m venv venv worked.
+        mess.. double check venv is chosen eveyrtime you start vscode. ctrl + shift + p
+            select interpreterven
 
     - you are able to change versions. have diff versions for diff projects.
